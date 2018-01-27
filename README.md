@@ -8,4 +8,6 @@ After some API searching, I decided to check out the React website. Now I am suc
 
 Broke for some tacos around noon. They were alright. Back to react-tac-toe.
 
-Finished the tutorial on tic-tac-toe with React. Downloaded the React Developer Extension for Chrome to debug. 
+Finished the tutorial on tic-tac-toe with React. Downloaded the React Developer Extension for Chrome to debug.
+
+After some React fun, I revisited the online-store project and worked with the edit/delete functionality in Angular.
