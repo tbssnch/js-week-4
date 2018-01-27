@@ -11,3 +11,7 @@ Broke for some tacos around noon. They were alright. Back to react-tac-toe.
 Finished the tutorial on tic-tac-toe with React. Downloaded the React Developer Extension for Chrome to debug.
 
 After some React fun, I revisited the online-store project and worked with the edit/delete functionality in Angular.
+
+Spent the last bit of time left in the day going through this article about JS interviews.
+
+ https://medium.com/dev-bits/a-perfect-guide-for-cracking-a-javascript-interview-a-developers-perspective-23a5c0fa4d0d
