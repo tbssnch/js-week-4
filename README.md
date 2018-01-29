@@ -4,7 +4,7 @@ I started the day going through some basic JavaScript terminology (screenshot of
 
 Then, I spent some time looking for some API's so I could figure out how to API call using Angular 2. Couldn't really find anything I was wanting to build with, so I stopped doing that.
 
-After some API searching, I decided to check out the React website (screenshot of tutorial in img folder). Now I am sucked in making a tic-tac-toe app. (https://github.com/tbssnch/online-store.git)
+After some API searching, I decided to check out the React website (screenshot of tutorial in img folder). Now I am sucked in making a tic-tac-toe app. (https://github.com/tbssnch/react-tac-toe.git)
 
 Once I completed the React tutorial, I revisited the online-store project and worked with the edit/delete functionality in Angular. (https://github.com/tbssnch/online-store.git)
 
