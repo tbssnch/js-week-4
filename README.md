@@ -10,3 +10,7 @@ Once I completed the React tutorial, I revisited the online-store project and wo
 
 Spent the last bit of time left in the day going through an article from Medium(
  https://medium.com/dev-bits/a-perfect-guide-for-cracking-a-javascript-interview-a-developers-perspective-23a5c0fa4d0d) that helped me understand some things to expect and prepare for before heading into an interview.
+
+ # Thursday 1/30 work
+
+ 10:30 - Began the optional Implementing API's lesson. 
