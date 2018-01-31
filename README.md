@@ -13,4 +13,4 @@ Spent the last bit of time left in the day going through an article from Medium(
 
  # Thursday 1/30 work
 
- 10:30 - Began the optional Implementing API's lesson. 
+ 10:30 - Began the optional Implementing API's lesson. Notes and commits in the API-Practice.md file. 
